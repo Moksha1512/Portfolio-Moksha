@@ -296,10 +296,16 @@ top: 60px;
     font-size: 35px;
   }
   .about img {
-    position: absolute;
+     position: absolute;
+        top: 400px;
+        left:150px;
+        /* left: 1px; */
+        height: 200px;
+        width: 200px;
+/*     position: absolute;
     top: 80vh;
     left: 16vw;
-    width: 250px;
+    width: 250px; */
   }
   .background {
     width: 242px;
