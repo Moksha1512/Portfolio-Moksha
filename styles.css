@@ -406,6 +406,9 @@ top: 60px;
   .icon ion-icon {
     font-size: 25px;
   }
+  .about h2{
+    visibility:hiddeb;
+  }
   .copy p {
     font-size: 15px;
   }
