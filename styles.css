@@ -297,8 +297,8 @@ top: 60px;
   }
   .about img {
      position: absolute;
-        top: 440px;
-        left:150px;
+        top: 460px;
+        left:170px;
         /* left: 1px; */
         height: 200px;
         width: 200px;
@@ -312,8 +312,8 @@ top: 60px;
     position: absolute;
     background-color: #f16666a4;
     height: 198px;
-    top: 467px;
-    left: 170px;
+    top: 487px;
+    left: 190px;
   }
   .s {
     width: 90vw;
