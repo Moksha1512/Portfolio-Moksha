@@ -317,10 +317,11 @@ top: 60px;
   }
   .s {
     width: 90vw;
+    padding-top: 117px;
     grid-template-columns: 1fr;
     margin: auto;
-    padding: 0;
-    margin-top: 480px;
+/*     padding: 0; */
+/*     margin-top: 480px; */
     align-content: center;
     justify-content: center;
   }
