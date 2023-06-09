@@ -289,7 +289,7 @@ p {
   }
   .about img {
     position: absolute;
-    top: 86vh;
+    top: 80vh;
     left: 16vw;
     width: 250px;
   }
@@ -298,8 +298,8 @@ p {
     position: absolute;
     background-color: #f16666a4;
     height: 240px;
-    top: 91vh;
-    left: 25vw;
+    top: 85vh;
+    left: 24vw;
   }
   .s {
     width: 90vw;
