@@ -48,9 +48,9 @@ p {
 }
 .image {
   position: absolute;
-  width: 22vw;
-  right: 180px;
-  top: 65px;
+  width: 25vw;
+  right: 111px;
+  top: 39px;
   z-index: 10;
 }
 .background {
