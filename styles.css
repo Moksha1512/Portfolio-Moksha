@@ -54,12 +54,20 @@ p {
   z-index: 10;
 }
 .background {
-  width: 22vw;
+      width: 25vw;
+position: absolute;
+/* background-color: #f683a9e5; */
+background-color: #f16666a4;
+height: 55vh;
+/* right: 49; */
+right: 89px;
+top: 60px;
+/*   width: 22vw;
   position: absolute;
   background-color: #f16666a4;
   height: 45vh;
   right: 155px;
-  top: 93px;
+  top: 93px; */
 }
 .about {
   display: grid;
