@@ -34,6 +34,19 @@ html {
   text-align: center;
   padding-top: 34vh;
 }
+.pic p {
+    /* background-color: red; */
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes example {
+    0%   {color:#f16666c8;}
+    100%  {color: rgb(8, 8, 8);}
+    25%  {color: rgba(0, 0, 255, 0);}
+    50% {color: rgba(90, 92, 90, 0.603);}
+  }
 .ab {
   padding-left: 8vw;
   padding-top: 80px;
