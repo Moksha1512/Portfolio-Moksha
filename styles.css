@@ -308,21 +308,12 @@ top: 60px;
     width: 250px; */
   }
   .background {
-      width: 200px;
-        position: absolute;
-        /* background-color: #f683a9e5; */
-        background-color: #f16666a4;
-        height: 198px;
-        right: 49;
-        right: 270px;
-        top: 427px;
-        left: 170px;
-/*     width: 242px;
+    width: 200px;
     position: absolute;
     background-color: #f16666a4;
-    height: 240px;
-    top: 85vh;
-    left: 24vw; */
+    height: 198px;
+    top: 427px;
+    left: 170px;
   }
   .s {
     width: 90vw;
